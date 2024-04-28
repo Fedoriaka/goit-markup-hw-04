@@ -393,6 +393,7 @@ ul {
   height: 44px;
 outline: none;
   fill: #afb1b8;
+  margin-top: 0;
 }
 .socialmedia.link:hover,
 .socialmedia.link:focus {
